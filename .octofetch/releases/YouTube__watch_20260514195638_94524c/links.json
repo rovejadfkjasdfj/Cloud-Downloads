@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7458",
+  "folder": "YouTube__watch_20260514195638_94524c",
+  "base_name": "AZCoU4e-3JM_AZCoU4e-3JM_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/rovejadfkjasdfj/Cloud-Downloads/releases/tag/co-releases-v1-7458",
+  "files": [
+    {
+      "name": "AZCoU4e-3JM_AZCoU4e-3JM_1080p.mp4",
+      "url": "https://github.com/rovejadfkjasdfj/Cloud-Downloads/releases/download/co-releases-v1-7458/AZCoU4e-3JM_AZCoU4e-3JM_1080p.mp4",
+      "api_url": "https://api.github.com/repos/rovejadfkjasdfj/Cloud-Downloads/releases/assets/420427198",
+      "id": 420427198,
+      "size": 108874262,
+      "download_count": 0
+    }
+  ]
+}
