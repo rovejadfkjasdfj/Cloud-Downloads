@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1911",
+  "folder": "YouTube__watch_20260517101408_112fce",
+  "base_name": "Self-host_your_own_Git_platform_Gitea_Tutorial_Kg0ct2lBUVg_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/rovejadfkjasdfj/Cloud-Downloads/releases/tag/co-releases-v1-1911",
+  "files": [
+    {
+      "name": "Self-host_your_own_Git_platform_Gitea_Tutorial_Kg0ct2lBUVg_1080p.mp4",
+      "url": "https://github.com/rovejadfkjasdfj/Cloud-Downloads/releases/download/co-releases-v1-1911/Self-host_your_own_Git_platform_Gitea_Tutorial_Kg0ct2lBUVg_1080p.mp4",
+      "api_url": "https://api.github.com/repos/rovejadfkjasdfj/Cloud-Downloads/releases/assets/422433294",
+      "id": 422433294,
+      "size": 116740876,
+      "download_count": 0
+    }
+  ]
+}
